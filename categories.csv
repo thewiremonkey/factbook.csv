@@ -1,0 +1,75 @@
+Num,Category,Name
+2147,Geography,Area
+2119,People and Society,Population
+2002,People and Society,Population growth rate
+2054,People and Society,Birth rate
+2066,People and Society,Death rate
+2112,People and Society,Net migration rate
+2223,People and Society,Maternal mortality rate
+2091,People and Society,Infant mortality rate
+2102,People and Society,Life expectancy at birth
+2127,People and Society,Total fertility rate
+2225,People and Society,Health expenditures
+2155,People and Society,HIV/AIDS - adult prevalence rate
+2156,People and Society,HIV/AIDS - people living with HIV/AIDS
+2157,People and Society,HIV/AIDS - deaths
+2228,People and Society,Obesity - adult prevalence rate
+2224,People and Society,Children under the age of 5 years underweight
+2206,People and Society,Education expenditures
+2229,People and Society,"Unemployment, youth ages 15-24"
+,Economy,GDP (purchasing power parity)
+,Economy,GDP - real growth rate
+,Economy,GDP - per capita (PPP)
+,Economy,Gross national saving
+,Economy,Industrial production growth rate
+,Economy,Labor force
+,Economy,Unemployment rate
+,Economy,Distribution of family income - Gini index
+,Economy,Taxes and other revenues
+,Economy,Budget surplus (+) or deficit (-)
+,Economy,Public debt
+,Economy,Inflation rate (consumer prices)
+,Economy,Central bank discount rate
+,Economy,Commercial bank prime lending rate
+,Economy,Stock of narrow money
+,Economy,Stock of broad money
+,Economy,Stock of domestic credit
+,Economy,Market value of publicly traded shares
+,Economy,Current account balance
+,Economy,Exports
+,Economy,Imports
+,Economy,Reserves of foreign exchange and gold
+,Economy,Debt - external
+,Economy,Stock of direct foreign investment - at home
+,Economy,Stock of direct foreign investment - abroad
+,Energy,Electricity - production
+,Energy,Electricity - consumption
+,Energy,Electricity - exports
+,Energy,Electricity - imports
+,Energy,Electricity - installed generating capacity
+,Energy,Electricity - from fossil fuels
+,Energy,Electricity - from nuclear fuels
+,Energy,Electricity - from hydroelectric plants
+,Energy,Electricity - from other renewable sources
+,Energy,Crude oil - production
+,Energy,Crude oil - exports
+,Energy,Crude oil - imports
+,Energy,Crude oil - proved reserves
+,Energy,Refined petroleum products - production
+,Energy,Refined petroleum products - consumption
+,Energy,Refined petroleum products - exports
+,Energy,Refined petroleum products - imports
+,Energy,Natural gas - production
+,Energy,Natural gas - consumption
+,Energy,Natural gas - exports
+,Energy,Natural gas - imports
+,Energy,Natural gas - proved reserves
+,Communications,Telephones - fixed lines
+,Communications,Telephones - mobile cellular
+,Communications,Internet users
+,Transportation,Airports
+,Transportation,Railways
+,Transportation,Roadways
+,Transportation,Waterways
+,Transportation,Merchant marine
+,Military,Military expenditures
