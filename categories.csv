@@ -17,59 +17,59 @@ Num,Category,Name
 2224,People and Society,Children under the age of 5 years underweight
 2206,People and Society,Education expenditures
 2229,People and Society,"Unemployment, youth ages 15-24"
-,Economy,GDP (purchasing power parity)
-,Economy,GDP - real growth rate
-,Economy,GDP - per capita (PPP)
-,Economy,Gross national saving
-,Economy,Industrial production growth rate
-,Economy,Labor force
-,Economy,Unemployment rate
-,Economy,Distribution of family income - Gini index
-,Economy,Taxes and other revenues
-,Economy,Budget surplus (+) or deficit (-)
-,Economy,Public debt
-,Economy,Inflation rate (consumer prices)
-,Economy,Central bank discount rate
-,Economy,Commercial bank prime lending rate
-,Economy,Stock of narrow money
-,Economy,Stock of broad money
-,Economy,Stock of domestic credit
-,Economy,Market value of publicly traded shares
-,Economy,Current account balance
-,Economy,Exports
-,Economy,Imports
-,Economy,Reserves of foreign exchange and gold
-,Economy,Debt - external
-,Economy,Stock of direct foreign investment - at home
-,Economy,Stock of direct foreign investment - abroad
-,Energy,Electricity - production
-,Energy,Electricity - consumption
-,Energy,Electricity - exports
-,Energy,Electricity - imports
-,Energy,Electricity - installed generating capacity
-,Energy,Electricity - from fossil fuels
-,Energy,Electricity - from nuclear fuels
-,Energy,Electricity - from hydroelectric plants
-,Energy,Electricity - from other renewable sources
-,Energy,Crude oil - production
-,Energy,Crude oil - exports
-,Energy,Crude oil - imports
-,Energy,Crude oil - proved reserves
-,Energy,Refined petroleum products - production
-,Energy,Refined petroleum products - consumption
-,Energy,Refined petroleum products - exports
-,Energy,Refined petroleum products - imports
-,Energy,Natural gas - production
-,Energy,Natural gas - consumption
-,Energy,Natural gas - exports
-,Energy,Natural gas - imports
-,Energy,Natural gas - proved reserves
-,Communications,Telephones - fixed lines
-,Communications,Telephones - mobile cellular
-,Communications,Internet users
-,Transportation,Airports
-,Transportation,Railways
-,Transportation,Roadways
-,Transportation,Waterways
-,Transportation,Merchant marine
-,Military,Military expenditures
+2001,Economy,GDP (purchasing power parity)
+2003,Economy,GDP - real growth rate
+2004,Economy,GDP - per capita (PPP)
+2260,Economy,Gross national saving
+2089,Economy,Industrial production growth rate
+2095,Economy,Labor force
+2129,Economy,Unemployment rate
+2172,Economy,Distribution of family income - Gini index
+2221,Economy,Taxes and other revenues
+2222,Economy,Budget surplus (+) or deficit (-)
+2186,Economy,Public debt
+2092,Economy,Inflation rate (consumer prices)
+2207,Economy,Central bank discount rate
+2208,Economy,Commercial bank prime lending rate
+2214,Economy,Stock of narrow money
+2215,Economy,Stock of broad money
+2211,Economy,Stock of domestic credit
+2200,Economy,Market value of publicly traded shares
+2187,Economy,Current account balance
+2078,Economy,Exports
+2087,Economy,Imports
+2188,Economy,Reserves of foreign exchange and gold
+2079,Economy,Debt - external
+2198,Economy,Stock of direct foreign investment - at home
+2199,Economy,Stock of direct foreign investment - abroad
+2232,Energy,Electricity - production
+2233,Energy,Electricity - consumption
+2234,Energy,Electricity - exports
+2235,Energy,Electricity - imports
+2236,Energy,Electricity - installed generating capacity
+2237,Energy,Electricity - from fossil fuels
+2239,Energy,Electricity - from nuclear fuels
+2238,Energy,Electricity - from hydroelectric plants
+2240,Energy,Electricity - from other renewable sources
+2241,Energy,Crude oil - production
+2242,Energy,Crude oil - exports
+2243,Energy,Crude oil - imports
+2244,Energy,Crude oil - proved reserves
+2245,Energy,Refined petroleum products - production
+2246,Energy,Refined petroleum products - consumption
+2247,Energy,Refined petroleum products - exports
+2248,Energy,Refined petroleum products - imports
+2249,Energy,Natural gas - production
+2250,Energy,Natural gas - consumption
+2251,Energy,Natural gas - exports
+2252,Energy,Natural gas - imports
+2253,Energy,Natural gas - proved reserves
+2150,Communications,Telephones - fixed lines
+2151,Communications,Telephones - mobile cellular
+2153,Communications,Internet users
+2053,Transportation,Airports
+2121,Transportation,Railways
+2085,Transportation,Roadways
+2093,Transportation,Waterways
+2108,Transportation,Merchant marine
+2034,Military,Military expenditures
