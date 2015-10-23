@@ -1,0 +1,216 @@
+Pos,Name,Value
+1,Macau,35.50
+2,Kuwait,25.40
+3,Brunei,14.30
+4,Norway,12.50
+5,Qatar,11.20
+6,United Arab Emirates,5.90
+7,Saint Kitts and Nevis,4.60
+8,Saint Pierre and Miquelon,4.60
+9,"Congo, Republic of the",3.70
+10,Oman,3.00
+11,Iraq,2.90
+12,Antigua and Barbuda,2.70
+13,Montenegro,2.10
+14,Liechtenstein,2.10
+15,Greenland,1.90
+16,Botswana,1.70
+17,Seychelles,1.60
+18,"Micronesia, Federated States of",1.50
+19,Nepal,1.30
+20,Gibraltar,1.30
+21,Guernsey,1.20
+22,Brazil,1.20
+23,Cayman Islands,1.10
+24,Turkmenistan,1.00
+25,Cook Islands,1.00
+26,French Polynesia,0.90
+27,Hong Kong,0.70
+28,"Korea, South",0.50
+29,Singapore,0.50
+30,Isle of Man,0.50
+31,Marshall Islands,0.40
+32,Russia,0.40
+33,Germany,0.40
+34,Switzerland,0.30
+35,Luxembourg,0.20
+36,Iceland,0.10
+37,Solomon Islands,0.00
+38,Latvia,0.00
+39,British Virgin Islands,0.00
+40,Saint Vincent and the Grenadines,0.00
+41,Tonga,0.00
+42,Puerto Rico,-0.10
+43,Peru,-0.10
+44,Estonia,-0.20
+45,Belarus,-0.20
+46,Andorra,-0.30
+47,"Congo, Democratic Republic of the",-0.30
+48,Tajikistan,-0.40
+49,Curacao,-0.40
+50,Jersey,-0.40
+51,"Korea, North",-0.40
+52,Bolivia,-0.50
+53,Anguilla,-0.50
+54,Afghanistan,-0.60
+55,Iran,-0.70
+56,Jamaica,-0.90
+57,New Zealand,-0.90
+58,Uzbekistan,-1.00
+59,Gabon,-1.00
+60,Monaco,-1.10
+61,Comoros,-1.10
+62,Mauritania,-1.10
+63,Azerbaijan,-1.30
+64,Taiwan,-1.30
+65,Denmark,-1.40
+66,Paraguay,-1.40
+67,Colombia,-1.50
+68,Philippines,-1.50
+69,Swaziland,-1.50
+70,Poland,-1.50
+71,Kazakhstan,-1.60
+72,Czech Republic,-1.70
+73,Armenia,-1.70
+74,Mongolia,-1.80
+75,Kosovo,-1.80
+76,Nicaragua,-1.90
+77,Vanuatu,-1.90
+78,Lesotho,-1.90
+79,Lithuania,-1.90
+80,Australia,-1.90
+81,Saudi Arabia,-1.90
+82,Romania,-1.90
+83,Benin,-2.00
+84,Palau,-2.00
+85,Nigeria,-2.00
+86,Cambodia,-2.10
+87,Chile,-2.10
+88,Sweden,-2.20
+89,Thailand,-2.20
+90,Canada,-2.30
+91,Guatemala,-2.30
+92,Kyrgyzstan,-2.30
+93,Indonesia,-2.40
+94,Turkey,-2.40
+95,Malta,-2.40
+96,Argentina,-2.50
+97,Belgium,-2.50
+98,Sudan,-2.60
+99,Fiji,-2.60
+100,Trinidad and Tobago,-2.60
+101,Dominican Republic,-2.70
+102,Netherlands,-2.70
+103,Israel,-2.70
+104,Cote d'Ivoire,-2.80
+105,Burundi,-2.80
+106,Georgia,-2.80
+107,Central African Republic,-2.80
+108,United States,-2.80
+109,Saint Lucia,-2.80
+110,Slovakia,-2.80
+111,San Marino,-2.90
+112,China,-2.90
+113,Ethiopia,-2.90
+114,Moldova,-2.90
+115,Burma,-2.90
+116,Austria,-3.00
+117,Italy,-3.00
+118,Hungary,-3.00
+119,Guam,-3.00
+120,Belize,-3.00
+121,Bulgaria,-3.00
+122,Bahrain,-3.20
+123,Sierra Leone,-3.30
+124,Madagascar,-3.30
+125,Bangladesh,-3.30
+126,Greece,-3.40
+127,Malaysia,-3.40
+128,Uruguay,-3.40
+129,Guinea-Bissau,-3.40
+130,El Salvador,-3.50
+131,Finland,-3.50
+132,Bosnia and Herzegovina,-3.60
+133,Rwanda,-3.70
+134,Mauritius,-3.70
+135,Mexico,-3.70
+136,Burkina Faso,-3.70
+137,Uganda,-3.80
+138,Tuvalu,-3.90
+139,Bermuda,-3.90
+140,Suriname,-4.00
+141,Slovenia,-4.00
+142,Grenada,-4.10
+143,Panama,-4.10
+144,Macedonia,-4.10
+145,Algeria,-4.20
+146,France,-4.30
+147,Guinea,-4.30
+148,Jordan,-4.30
+149,Cameroon,-4.40
+150,Liberia,-4.40
+151,South Africa,-4.40
+152,Guyana,-4.50
+153,Ireland,-4.60
+154,Vietnam,-4.60
+155,"Bahamas, The",-4.60
+156,Maldives,-4.70
+157,Mali,-4.70
+158,Laos,-4.70
+159,Angola,-4.70
+160,United Kingdom,-4.80
+161,Portugal,-4.80
+162,Croatia,-4.90
+163,Togo,-4.90
+164,Falkland Islands (Islas Malvinas),-5.00
+165,Morocco,-5.00
+166,Cyprus,-5.00
+167,India,-5.00
+168,Ukraine,-5.00
+169,Honduras,-5.10
+170,Ecuador,-5.20
+171,Chad,-5.20
+172,Kenya,-5.20
+173,Samoa,-5.20
+174,Senegal,-5.20
+175,Namibia,-5.30
+176,Djibouti,-5.30
+177,Costa Rica,-5.50
+178,Spain,-5.60
+179,Syria,-5.80
+180,Sri Lanka,-5.80
+181,Pakistan,-5.90
+182,Zambia,-5.90
+183,Albania,-6.00
+184,Tanzania,-6.00
+185,American Samoa,-6.10
+186,Tunisia,-6.40
+187,Haiti,-6.60
+188,Equatorial Guinea,-6.90
+189,Serbia,-6.90
+190,Malawi,-7.00
+191,Papua New Guinea,-7.00
+192,"Gambia, The",-7.10
+193,Cabo Verde,-7.10
+194,Dominica,-7.20
+195,Aruba,-7.40
+196,Japan,-7.90
+197,Northern Mariana Islands,-7.90
+198,Yemen,-9.00
+199,Barbados,-9.40
+200,Ghana,-9.60
+201,Lebanon,-9.80
+202,Mozambique,-9.90
+203,Bhutan,-9.90
+204,Sao Tome and Principe,-10.20
+205,Egypt,-11.80
+206,Faroe Islands,-11.90
+207,Niue,-12.60
+208,Niger,-12.60
+209,Eritrea,-12.80
+210,Libya,-14.10
+211,South Sudan,-15.30
+212,West Bank,-23.10
+213,Venezuela,-29.40
+214,Timor-Leste,-31.00
+215,Kiribati,-31.40

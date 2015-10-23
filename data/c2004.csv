@@ -1,0 +1,231 @@
+Pos,Name,Value
+1,Qatar
+2,Luxembourg,$92400
+3,Liechtenstein,$89400
+4,Macau,$88700
+5,Bermuda,$86000
+6,Isle of Man,$83100
+7,Singapore,$81300
+8,Monaco,$78700
+9,Brunei,$77700
+10,Kuwait,$71000
+11,Sint Maarten,$66800
+12,Norway,$65900
+13,United Arab Emirates,$65000
+14,Jersey,$57000
+15,Falkland Islands (Islas Malvinas),$55400
+16,Switzerland,$55200
+17,Hong Kong,$55200
+18,San Marino,$55000
+19,United States,$54800
+20,Saudi Arabia,$52800
+21,Bahrain,$51400
+22,Netherlands,$47400
+23,Ireland,$46800
+24,Australia,$46600
+25,Austria,$45400
+26,Sweden,$44700
+27,Germany,$44700
+28,Guernsey,$44600
+29,Canada,$44500
+30,Denmark,$44300
+31,Oman,$44100
+32,Cayman Islands,$43800
+33,Taiwan,$43600
+34,Gibraltar,$43000
+35,Iceland,$42600
+36,British Virgin Islands,$42300
+37,Belgium,$41700
+38,Finland,$40500
+39,France,$40400
+40,New Caledonia,$38800
+41,Greenland,$38400
+42,European Union,$38300
+43,Japan,$37800
+44,United Kingdom,$37700
+45,Andorra,$37200
+46,"Korea, South",$35400
+47,New Zealand,$35000
+48,Saint Pierre and Miquelon,$34900
+49,Italy,$34500
+50,Israel,$33400
+51,Spain,$33000
+52,Equatorial Guinea,$32600
+53,Malta,$31700
+54,Trinidad and Tobago,$31300
+55,Faroe Islands,$30500
+56,Slovenia,$29400
+57,Turks and Caicos Islands,$29100
+58,Guam,$28700
+59,Czech Republic,$28400
+60,Cyprus,$28000
+61,Slovakia,$27700
+62,Lithuania,$26700
+63,Estonia,$26600
+64,Portugal,$26300
+65,French Polynesia,$26100
+66,Greece,$25800
+67,Aruba,$25300
+68,"Bahamas, The",$25100
+69,Russia,$24800
+70,Seychelles,$24500
+71,Malaysia,$24500
+72,Poland,$24400
+73,Hungary,$24300
+74,Kazakhstan,$24100
+75,Latvia,$23900
+76,Chile,$23200
+77,Antigua and Barbuda,$22600
+78,Argentina,$22100
+79,Gabon,$21600
+80,Uruguay,$20500
+81,Croatia,$20400
+82,Panama,$20300
+83,Saint Kitts and Nevis,$20300
+84,Turkey,$19600
+85,Romania,$19400
+86,Saint Martin,$19300
+87,Belarus,$18200
+88,Venezuela,$17900
+89,Azerbaijan,$17900
+90,Lebanon,$17900
+91,Mauritius,$17900
+92,Mexico,$17900
+93,Bulgaria,$17100
+94,Suriname,$16700
+95,Libya,$16600
+96,Iran,$16500
+97,Puerto Rico,$16300
+98,Barbados,$16200
+99,Botswana,$16000
+100,Montenegro,$15200
+101,Brazil,$15200
+102,Palau,$15100
+103,Curacao,$15000
+104,Costa Rica,$14900
+105,Virgin Islands,$14500
+106,Thailand,$14400
+107,Algeria,$14300
+108,Turkmenistan,$14200
+109,Iraq,$14100
+110,Northern Mariana Islands,$13600
+111,Colombia,$13500
+112,Macedonia,$13200
+113,China,$12900
+114,Dominican Republic,$12800
+115,South Africa,$12700
+116,Serbia,$12500
+117,Maldives,$12400
+118,Anguilla,$12200
+119,Peru,$12000
+120,Jordan,$11900
+121,Grenada,$11800
+122,Tunisia,$11400
+123,Ecuador,$11400
+124,Saint Lucia,$11100
+125,Albania,$11100
+126,Egypt,$11100
+127,Saint Vincent and the Grenadines,$10900
+128,Namibia,$10800
+129,Dominica,$10700
+130,Sri Lanka,$10400
+131,Cuba,$10200
+132,Mongolia,$10200
+133,Indonesia,$10200
+134,Bosnia and Herzegovina,$9800
+135,Cook Islands,$9100
+136,Jamaica,$8700
+137,Montserrat,$8500
+138,Paraguay,$8400
+139,Ukraine,$8200
+140,Fiji,$8200
+141,Angola,$8200
+142,Belize,$8100
+143,El Salvador,$8000
+144,Kosovo,$8000
+145,American Samoa,$8000
+146,"Saint Helena, Ascension, and Tristan da Cunha",$7800
+147,Swaziland,$7800
+148,Bhutan,$7700
+149,Georgia,$7700
+150,Morocco,$7700
+151,Guatemala,$7500
+152,Armenia,$7400
+153,Philippines,$7000
+154,Guyana,$6900
+155,Timor-Leste,$6800
+156,"Congo, Republic of the",$6600
+157,Cabo Verde,$6300
+158,Bolivia,$6200
+159,Nigeria,$6100
+160,India,$5800
+161,Niue,$5800
+162,Uzbekistan,$5600
+163,Vietnam,$5600
+164,Samoa,$5200
+165,Syria,$5100
+166,Tonga,$5000
+167,Laos,$5000
+168,Nauru,$5000
+169,West Bank,$4900
+170,Burma,$4800
+171,Moldova,$4800
+172,Nicaragua,$4800
+173,Honduras,$4700
+174,Pakistan,$4700
+175,Sudan,$4500
+176,Ghana,$4200
+177,Zambia,$4100
+178,Yemen,$3900
+179,Wallis and Futuna,$3800
+180,Bangladesh,$3400
+181,Kyrgyzstan,$3400
+182,Mauritania,$3400
+183,Cambodia,$3300
+184,"Micronesia, Federated States of",$3200
+185,Marshall Islands,$3200
+186,Tuvalu,$3200
+187,Kenya,$3100
+188,Sao Tome and Principe,$3100
+189,Cameroon,$3000
+190,Djibouti,$3000
+191,Cote d'Ivoire,$2900
+192,Lesotho,$2900
+193,Tajikistan,$2700
+194,Chad,$2600
+195,Vanuatu,$2500
+196,Western Sahara,$2500
+197,Nepal,$2400
+198,Papua New Guinea,$2400
+199,Senegal,$2300
+200,Sierra Leone,$2100
+201,Afghanistan,$2000
+202,South Sudan,$2000
+203,Zimbabwe,$2000
+204,Tanzania,$1900
+205,Benin,$1900
+206,Solomon Islands,$1800
+207,Haiti,$1800
+208,"Korea, North",$1800
+209,Uganda,$1800
+210,"Gambia, The",$1700
+211,Rwanda,$1700
+212,Burkina Faso,$1700
+213,Comoros,$1700
+214,Kiribati,$1600
+215,Mali,$1600
+216,Togo,$1500
+217,Ethiopia,$1500
+218,Madagascar,$1400
+219,Guinea-Bissau,$1400
+220,Guinea,$1300
+221,Eritrea,$1200
+222,Mozambique,$1100
+223,Niger,$1000
+224,Tokelau,$1000
+225,Liberia,$900
+226,Burundi,$900
+227,Malawi,$800
+228,"Congo, Democratic Republic of the",$700
+229,Somalia,$600
+230,Central African Republic,$600

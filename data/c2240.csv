@@ -1,0 +1,211 @@
+Pos,Name,Value
+1,Dominica,73.5
+2,Denmark,38.4
+3,Germany,36.0
+4,Nicaragua,34.1
+5,Cabo Verde,31.6
+6,Spain,30.0
+7,Portugal,27.2
+8,Iceland,24.9
+9,Belgium,22.6
+10,Italy,20.9
+11,Belize,20.7
+12,Ireland,19.9
+13,Austria,19.9
+14,Sweden,19.6
+15,European Union,19.6
+16,Luxembourg,17.9
+17,Mauritius,17.8
+18,El Salvador,15.5
+19,New Zealand,15.1
+20,Greece,14.2
+21,Costa Rica,13.6
+22,Netherlands,13.2
+23,Cyprus,13.1
+24,Finland,12.7
+25,Guatemala,12.5
+26,Kenya,12.4
+27,India,12.3
+28,Philippines,12.3
+29,Czech Republic,11.5
+30,Honduras,10.7
+31,Vanuatu,10.7
+32,Brazil,10.4
+33,Falkland Islands (Islas Malvinas),10.0
+34,Aruba,9.4
+35,Slovakia,9.4
+36,France,9.3
+37,Hungary,8.9
+38,Estonia,8.7
+39,Romania,8.6
+40,Papua New Guinea,8.0
+41,United Kingdom,8.0
+42,Bulgaria,7.9
+43,New Caledonia,7.6
+44,Lithuania,7.2
+45,China,7.2
+46,Australia,7.1
+47,Chile,6.3
+48,United States,6.2
+49,Jamaica,5.8
+50,Fiji,5.7
+51,Poland,5.6
+52,Canada,5.5
+53,Slovenia,5.5
+54,Turkey,5.4
+55,Israel,5.2
+56,Morocco,4.9
+57,Saint Kitts and Nevis,4.8
+58,Faroe Islands,4.1
+59,Guyana,3.7
+60,Japan,3.6
+61,Croatia,3.5
+62,Serbia,3.5
+63,Bosnia and Herzegovina,3.5
+64,Switzerland,3.5
+65,Uganda,3.4
+66,Mexico,3.2
+67,Taiwan,3.1
+68,Sudan,3.0
+69,Indonesia,3.0
+70,South Sudan,3.0
+71,Latvia,2.7
+72,Singapore,2.6
+73,Malta,2.5
+74,Saint Pierre and Miquelon,2.3
+75,Norway,2.2
+76,"Korea, South",2.1
+77,Egypt,2.0
+78,Ecuador,1.9
+79,Ethiopia,1.8
+80,Bermuda,1.8
+81,Uruguay,1.6
+82,Bolivia,1.5
+83,Grenada,1.4
+84,Dominican Republic,1.4
+85,Eritrea,1.3
+86,Tunisia,1.3
+87,Cook Islands,1.1
+88,Cambodia,1.0
+89,Ukraine,0.6
+90,South Africa,0.6
+91,Argentina,0.4
+92,Macedonia,0.4
+93,Colombia,0.4
+94,Senegal,0.3
+95,Rwanda,0.3
+96,Madagascar,0.2
+97,Cuba,0.2
+98,Iran,0.2
+99,Thailand,0.2
+100,Trinidad and Tobago,0.2
+101,Samoa,0.2
+102,Pakistan,0.2
+103,Sri Lanka,0.1
+104,Belarus,0.1
+105,Jordan,0.1
+106,Armenia,0.1
+107,Maldives,0.1
+108,Vietnam,0.1
+109,Mongolia,0.1
+110,Nepal,0.0
+111,Nauru,0.0
+112,Suriname,0.0
+113,Paraguay,0.0
+114,Peru,0.0
+115,Panama,0.0
+116,Guinea-Bissau,0.0
+117,Qatar,0.0
+118,Puerto Rico,0.0
+119,Russia,0.0
+120,Saudi Arabia,0.0
+121,Seychelles,0.0
+122,"Saint Helena, Ascension, and Tristan da Cunha",0.0
+123,Sierra Leone,0.0
+124,Somalia,0.0
+125,Saint Lucia,0.0
+126,Syria,0.0
+127,Tajikistan,0.0
+128,Turks and Caicos Islands,0.0
+129,Tonga,0.0
+130,Togo,0.0
+131,Sao Tome and Principe,0.0
+132,Turkmenistan,0.0
+133,Tanzania,0.0
+134,Burkina Faso,0.0
+135,Uzbekistan,0.0
+136,Saint Vincent and the Grenadines,0.0
+137,Venezuela,0.0
+138,British Virgin Islands,0.0
+139,Virgin Islands,0.0
+140,Namibia,0.0
+141,West Bank,0.0
+142,Western Sahara,0.0
+143,Swaziland,0.0
+144,Yemen,0.0
+145,Zambia,0.0
+146,Zimbabwe,0.0
+147,Antigua and Barbuda,0.0
+148,United Arab Emirates,0.0
+149,Afghanistan,0.0
+150,Algeria,0.0
+151,Azerbaijan,0.0
+152,Albania,0.0
+153,Angola,0.0
+154,American Samoa,0.0
+155,Bahrain,0.0
+156,Barbados,0.0
+157,Botswana,0.0
+158,"Bahamas, The",0.0
+159,Bangladesh,0.0
+160,Burma,0.0
+161,Benin,0.0
+162,Solomon Islands,0.0
+163,Bhutan,0.0
+164,Brunei,0.0
+165,Burundi,0.0
+166,Chad,0.0
+167,"Congo, Republic of the",0.0
+168,"Congo, Democratic Republic of the",0.0
+169,Cayman Islands,0.0
+170,Cameroon,0.0
+171,Comoros,0.0
+172,Central African Republic,0.0
+173,Djibouti,0.0
+174,Equatorial Guinea,0.0
+175,French Polynesia,0.0
+176,"Gambia, The",0.0
+177,Gabon,0.0
+178,Georgia,0.0
+179,Ghana,0.0
+180,Gibraltar,0.0
+181,Greenland,0.0
+182,Guam,0.0
+183,Guinea,0.0
+184,Haiti,0.0
+185,Hong Kong,0.0
+186,Cote d'Ivoire,0.0
+187,Iraq,0.0
+188,Kyrgyzstan,0.0
+189,"Korea, North",0.0
+190,Kiribati,0.0
+191,Kuwait,0.0
+192,Kazakhstan,0.0
+193,Laos,0.0
+194,Lebanon,0.0
+195,Liberia,0.0
+196,Lesotho,0.0
+197,Libya,0.0
+198,Macau,0.0
+199,Moldova,0.0
+200,Montserrat,0.0
+201,Malawi,0.0
+202,Montenegro,0.0
+203,Mali,0.0
+204,Mauritania,0.0
+205,Oman,0.0
+206,Malaysia,0.0
+207,Mozambique,0.0
+208,Niue,0.0
+209,Niger,0.0
+210,Nigeria,0.0

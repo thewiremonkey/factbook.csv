@@ -1,0 +1,226 @@
+Pos,Name,Value
+1,Lesotho,14.89
+2,Ukraine,14.46
+3,Bulgaria,14.44
+4,Guinea-Bissau,14.33
+5,Latvia,14.31
+6,Chad,14.28
+7,Lithuania,14.27
+8,Namibia,13.91
+9,Afghanistan,13.89
+10,Central African Republic,13.80
+11,Russia,13.69
+12,Serbia,13.66
+13,Somalia,13.62
+14,Swaziland,13.56
+15,Botswana,13.39
+16,Belarus,13.36
+17,Gabon,13.12
+18,Nigeria,12.90
+19,Mali,12.89
+20,Hungary,12.73
+21,Zambia,12.67
+22,Moldova,12.59
+23,Niger,12.42
+24,Estonia,12.40
+25,Croatia,12.18
+26,Mozambique,12.10
+27,Romania,11.90
+28,Burkina Faso,11.72
+29,Angola,11.49
+30,Germany,11.42
+31,Slovenia,11.37
+32,Greece,11.09
+33,Portugal,11.02
+34,Georgia,10.82
+35,Sierra Leone,10.81
+36,Uganda,10.69
+37,Czech Republic,10.34
+38,Denmark,10.25
+39,Poland,10.19
+40,Italy,10.19
+41,Zimbabwe,10.13
+42,Cameroon,10.11
+43,"Congo, Democratic Republic of the",10.07
+44,Isle of Man,10.06
+45,"Congo, Republic of the",10.00
+46,South Africa,9.91
+47,Finland,9.83
+48,Bosnia and Herzegovina,9.75
+49,Slovakia,9.74
+50,Saint Pierre and Miquelon,9.72
+51,Liberia,9.69
+52,Belgium,9.63
+53,Cote d'Ivoire,9.55
+54,Japan,9.51
+55,Guinea,9.46
+56,Uruguay,9.45
+57,Montenegro,9.43
+58,Austria,9.42
+59,Sweden,9.40
+60,United Kingdom,9.35
+61,Armenia,9.34
+62,Burundi,9.27
+63,Monaco,9.24
+64,"Korea, North",9.21
+65,France,9.16
+66,Malta,9.09
+67,Macedonia,9.08
+68,Spain,9.04
+69,Rwanda,8.96
+70,Guernsey,8.78
+71,Tuvalu,8.74
+72,Faroe Islands,8.71
+73,Puerto Rico,8.67
+74,Netherlands,8.66
+75,Trinidad and Tobago,8.56
+76,Virgin Islands,8.54
+77,Greenland,8.49
+78,Senegal,8.46
+79,San Marino,8.45
+80,Barbados,8.44
+81,Canada,8.42
+82,Malawi,8.41
+83,Gibraltar,8.37
+84,Western Sahara,8.34
+85,Bermuda,8.23
+86,Kazakhstan,8.21
+87,Benin,8.21
+88,Mauritania,8.20
+89,Equatorial Guinea,8.19
+90,Ethiopia,8.19
+91,South Sudan,8.18
+92,Aruba,8.18
+93,United States,8.15
+94,Switzerland,8.13
+95,Norway,8.12
+96,Grenada,8.08
+97,Cook Islands,8.03
+98,Curacao,8.00
+99,Tanzania,8.00
+100,Palau,7.99
+101,Burma,7.96
+102,Dominica,7.91
+103,Haiti,7.83
+104,Thailand,7.80
+105,Djibouti,7.73
+106,Cuba,7.72
+107,Jersey,7.68
+108,Cambodia,7.68
+109,Sudan,7.66
+110,Laos,7.63
+111,Comoros,7.57
+112,China,7.53
+113,Eritrea,7.52
+114,"Saint Helena, Ascension, and Tristan da Cunha",7.44
+115,Saint Lucia,7.42
+116,New Zealand,7.36
+117,Argentina,7.33
+118,India,7.32
+119,Guyana,7.32
+120,Togo,7.26
+121,Sao Tome and Principe,7.24
+122,Luxembourg,7.24
+123,Ghana,7.22
+124,Saint Vincent and the Grenadines,7.18
+125,"Gambia, The",7.15
+126,Australia,7.14
+127,Kiribati,7.12
+128,Liechtenstein,7.12
+129,Taiwan,7.11
+130,Saint Kitts and Nevis,7.09
+131,Hong Kong,7.07
+132,Azerbaijan,7.07
+133,"Bahamas, The",7.05
+134,Andorra,6.96
+135,Mauritius,6.91
+136,Kenya,6.89
+137,Seychelles,6.89
+138,Madagascar,6.81
+139,"Korea, South",6.75
+140,Jamaica,6.70
+141,Bhutan,6.69
+142,Kyrgyzstan,6.65
+143,Cyprus,6.62
+144,Brazil,6.58
+145,Albania,6.58
+146,Nepal,6.56
+147,Papua New Guinea,6.53
+148,Bolivia,6.52
+149,Pakistan,6.49
+150,Ireland,6.48
+151,Indonesia,6.37
+152,Mongolia,6.35
+153,Montserrat,6.30
+154,Yemen,6.28
+155,Iceland,6.28
+156,Tajikistan,6.18
+157,Suriname,6.13
+158,Turkmenistan,6.13
+159,Sri Lanka,6.11
+160,Philippines,6.11
+161,Cabo Verde,6.11
+162,Timor-Leste,6.10
+163,Fiji,6.04
+164,Peru,6.01
+165,Chile,6.00
+166,Tunisia,5.98
+167,Belize,5.97
+168,Iran,5.94
+169,Vietnam,5.93
+170,Turkey,5.88
+171,Nauru,5.87
+172,El Salvador,5.69
+173,Antigua and Barbuda,5.69
+174,Bangladesh,5.61
+175,Cayman Islands,5.53
+176,New Caledonia,5.52
+177,Colombia,5.40
+178,Samoa,5.32
+179,Venezuela,5.31
+180,Uzbekistan,5.30
+181,Mexico,5.26
+182,Honduras,5.17
+183,Israel,5.15
+184,Guam,5.12
+185,Nicaragua,5.08
+186,Ecuador,5.06
+187,Wallis and Futuna,5.06
+188,Malaysia,5.03
+189,French Polynesia,5.02
+190,British Virgin Islands,4.99
+191,Lebanon,4.88
+192,Tonga,4.85
+193,Panama,4.81
+194,Morocco,4.81
+195,Egypt,4.77
+196,Guatemala,4.77
+197,American Samoa,4.75
+198,Paraguay,4.68
+199,Anguilla,4.57
+200,Costa Rica,4.55
+201,Dominican Republic,4.55
+202,Sint Maarten,4.51
+203,Algeria,4.31
+204,"Micronesia, Federated States of",4.23
+205,Macau,4.22
+206,Marshall Islands,4.21
+207,Vanuatu,4.09
+208,Syria,4.00
+209,Maldives,3.89
+210,Solomon Islands,3.85
+211,Jordan,3.79
+212,Iraq,3.77
+213,Northern Mariana Islands,3.71
+214,Libya,3.58
+215,Brunei,3.52
+216,West Bank,3.50
+217,Singapore,3.43
+218,Oman,3.36
+219,Saudi Arabia,3.33
+220,Turks and Caicos Islands,3.10
+221,Gaza Strip,3.04
+222,Bahrain,2.69
+223,Kuwait,2.18
+224,United Arab Emirates,1.97
+225,Qatar,1.53
